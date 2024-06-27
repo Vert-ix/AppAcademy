@@ -15,6 +15,17 @@ Clone this repo
 git clone https://github.com/AI-School-F5-P2/AppAcademy.git
 ```
 
+Go to the project directory and create your virtual environment
+```
+cd AppAcademy
+python -m venv venv
+```
+Installing dependencies according to your environment manager
+```
+pip install -r requirements.txt
+pipenv install
+```
+
 ## 📖 View documentation
 
 [Documentation](https://jelly-tomato-cb6.notion.site/6c11548b28a34c3f884c5e83c607600b?v=f839aa368bfa4b87ac1c59ea6f27d557&pvs=4)
