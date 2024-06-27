@@ -25,6 +25,9 @@ Installing dependencies according to your environment manager
 pip install -r requirements.txt
 pipenv install
 ```
+Rename the .env.example file to .env and edit the environment variables with the actual data of your local or remote MySQL database connection.
+
+The variable named MYSQL_ADDON_DB is the name of the database you will use for the project, set the name equal to the name that appears in lines 1 and 2 of the app_academy_db.sql file. If you do not want to change the default name which is app_academy_db, set this variable with this name.
 
 ## 📖 View documentation
 
