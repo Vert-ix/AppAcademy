@@ -10,6 +10,7 @@ Our mission is to provide a modern and efficient solution to dance schools, allo
 
 Follow the instructions to start the application
 
+Clone this repo
 ```
 git clone https://github.com/AI-School-F5-P2/AppAcademy.git
 ```
